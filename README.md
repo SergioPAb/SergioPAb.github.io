@@ -1,7 +1,7 @@
 # SergioPAb.github.io
 
 <h1 align="center">Hola, soy Sergio Pérez 👋</h1> <p align="center"> <b>Data Analyst</b> · SQL · Python · Power BI · Tableau<br> Economista · MSc en Desarrollo Sostenible (Universidad de Sussex, con distinción)<br> 📍 Barranquilla, Colombia · 🌐 Español nativo · Inglés C1 (IELTS) </p> <p align="center"> <a href="https://www.linkedin.com/in/sergio-andres-perez/"><img src="https://img.shields.io/badge/LinkedIn-Sergio%20Pérez-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:spabiantun26@gmail.com"><img src="https://img.shields.io/badge/Email-spabiantun26%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a> </p>
----
+
 ## 🧭 Sobre mí
 
 Soy analista de datos con formación en economía y experiencia en investigación aplicada y evaluación de desempeño. Uso SQL, Python, Power BI y Tableau para limpiar datos, analizar tendencias y comunicar hallazgos con dashboards e informes. Completé el programa de Data Analytics de TripleTen en 2026.
